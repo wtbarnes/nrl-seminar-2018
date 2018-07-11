@@ -1,6 +1,7 @@
 # Ignore keynote and movie files
 *.key
 *.mov
+*.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
